@@ -1,5 +1,5 @@
 my:
-  greeting: Updated hello world from spring-boot-config microsevice specific file
+  greeting: Newly updated hello world from spring-boot-config microsevice specific file
   list:
     values: One,Two,Three
 
